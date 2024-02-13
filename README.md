@@ -10,5 +10,9 @@ sudo apt-get update
 Then we need to install the Gnome components for our virtual desktop. So type the following command:
 
 ```
+sudo apt-get install ubuntu-desktop
+```
+
+```
 sudo apt-get install gnome-core
 ```
