@@ -16,3 +16,25 @@ sudo apt-get install ubuntu-desktop
 ```
 sudo apt-get install gnome-core
 ```
+
+# Install Google remote desktop and connect to it
+open in browser 
+```
+https://remotedesktop.google.com/headless
+```
+
+```
+wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
+```
+```
+sudo dpkg -i chrome-remote-desktop_current_amd64.deb
+```
+```
+rm -rf chrome-remote-desktop_current_amd64.deb
+```
+```
+sudo apt update && sudo apt upgrade
+```
+
+
+
