@@ -3,7 +3,7 @@
 Connect to your instance either through SSH option or use gcloud option. Once connected update the source list.
 
 ```
-sudo apt-get update && apt-get upgrade
+sudo apt-get update && sudo apt-get upgrade
 ```
 
 # Install the Gnome components
