@@ -8,11 +8,12 @@ sudo apt-get update && sudo apt-get upgrade
 
 # Install the Gnome components
 Then we need to install the Gnome components for our virtual desktop. So type the following command:
-
+choose only one from these 2
+1. Full Desktop environment 
 ```
 sudo apt-get install ubuntu-desktop
 ```
-
+2. Lightweight with core functionality
 ```
 sudo apt-get install gnome-core
 ```
@@ -23,6 +24,7 @@ open in browser
 https://remotedesktop.google.com/headless
 ```
 
+paste these on console
 ```
 wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
 ```
