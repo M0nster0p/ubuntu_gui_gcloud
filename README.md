@@ -8,7 +8,7 @@ sudo apt-get update && sudo apt-get upgrade
 
 # Install the Gnome components
 Then we need to install the Gnome components for our virtual desktop. So type the following command:
-choose only one from these 2
+\n choose only one from these 2
 1. Full Desktop environment 
 ```
 sudo apt-get install ubuntu-desktop
